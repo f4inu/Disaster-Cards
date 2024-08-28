@@ -23,7 +23,7 @@ Use a different communication system for each contact:
 # Other disasters
 - bridge collapse
 - chemical gas
-- cell phone and internet/telephone outrage
+- cell phone and internet/telephone outage
 
 
 Cards created using: https://cardconjurer.com/creator
